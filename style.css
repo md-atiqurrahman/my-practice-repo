@@ -15,7 +15,6 @@ h1{
 hr{
     margin-left: 20px;
 }
-
 h6{
     margin-top: 3px;
     margin-left: 20px;
@@ -23,12 +22,10 @@ h6{
 }
 .dflex{
     display: flex;
-    
 }
 .left-side{
     margin-left: 20px;
     padding-right: 36px;
-
 }
 span{
     color:rgb(6, 146, 215);
@@ -43,7 +40,6 @@ span{
 .right-side p{
     margin-top: 0px;
 }
-    
 .right-side p a{
     text-decoration: none;
     color: steelblue;
@@ -82,10 +78,6 @@ span{
     background-image: linear-gradient(45deg, cyan,steelblue);
     border-radius: 5px;
     margin-left: 60px;
-   
-   
-    
-
 }
 .btn:hover{
     color: white;
